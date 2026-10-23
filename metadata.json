@@ -1,0 +1,6 @@
+{
+  "name": "SONORA SongWeaver",
+  "description": "Professional musical arrangement assistant and song-building workstation. Transform musical loops and MIDI into complete, editable arrangements with authentic journey structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
